@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CORE</string>
+    <string name="core_intro">CORE adalah aplikasi yang mempermudah masyarakat dalam melaporkan suatu kejadian yang terjadi</string>
+    <string name="nama">Nama Pelapor </string>
+    <string name="telepon">Telepon Pelapor</string>
+    <string name="lokasi">Lokasi Kejadian</string>
+    <string name="tanggal">Tanggal Kejadian</string>
+    <string name="isi">Isi Laporan</string>
+    <string name="tampil">Kirim</string>
+    <string name="reset">Reset</string>
+    <string name="theme">Theme mode</string>
+    <string name="nama_x">Nama Pelapor: %1$s</string>
+    <string name="telpon_x">Telpon Pelapor: %1$s</string>
+    <string name="lokasi_x">lokasi Kejadian: %1$s</string>
+    <string name="tanggal_x">tanggal Kejadian: %1$s</string>
+    <string name="isi_x">isi laporan : %1$s</string>
+    <string name="nama_invalid">Nanam tidak boleh kosong.</string>
+    <string name="telpon_invalid">Telpon tidak boleh kosong.</string>
+    <string name="lokasi_invalid">Lokasi tidak boleh kosong.</string>
+    <string name="tanggal_invalid">Tanggal tidak boleh kosong.</string>
+    <string name="isi_invalid">Isi tidak boleh kosong.</string>
+</resources>
